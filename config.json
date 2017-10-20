@@ -1,0 +1,4 @@
+{
+    "ldapUrl" : "ldap://cni-dc01",
+    "baseDN" : "dc=domain,dc=com"
+}
